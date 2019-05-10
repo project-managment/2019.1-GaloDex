@@ -11,3 +11,4 @@ Galodex é um sistema de catalogo de animais, que reune uma série de informaç�
 |  Exibir Animal | O sistema deve permitir a exibição da página do animal selecionado com os seguintes dados (Nome, Imagem, Categoria,alimentação,Periculosidade,tamanho médio, peso médio, expectativa de vida,Habitat, Curiosidade )|  - | -  | 
 |  Filtragem de Animais | O sistema deve permitir filtragem de animais por categoria,Alimentação e periculosidade |- | -|
 |Busca de Animais|O sistema deve permitir a busca de animais por Nome|-|-|
+|Destaque de Animais|O sistema deve mostrar o animal em destaque da semana|-|-|
